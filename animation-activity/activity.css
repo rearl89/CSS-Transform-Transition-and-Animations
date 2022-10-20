@@ -30,7 +30,7 @@ nav {
 
 @keyframes top {
   from {rotate: 0deg}
-  to {rotate: 45deg; transform: translate(1.5em, 1.5em);}
+  to {rotate: 45deg; transform: translate(1.5em, 1.4em);}
 }
 
 @keyframes middle {
@@ -40,5 +40,5 @@ nav {
 
 @keyframes bottom {
   from {rotate: 0deg}
-  to {rotate: -45deg; transform: translate(1.5em, -1.5em);}
+  to {rotate: -45deg; transform: translate(1.5em, -1.4em);}
 }
